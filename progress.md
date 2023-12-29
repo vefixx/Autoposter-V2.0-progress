@@ -1,2 +1,4 @@
-# Autoposter-V2.0-progress
-List of progress make discord Autoposter V2.0
+# Autoposter V2.0 progress status
+
+## 28/12/2023
+- **Reupdate /poster command. Add pattern choose when create poster**
